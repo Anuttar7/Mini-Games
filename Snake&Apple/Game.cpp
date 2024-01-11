@@ -1,4 +1,4 @@
-#include "Game1.h"
+#include "Game.h"
 
 #define boxSize 40		//sets the size of the standard box the screen is split into by me
 
